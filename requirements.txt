@@ -1,0 +1,3 @@
+chalice==1.7.0
+boto3==1.9.91
+requests==2.21.0
