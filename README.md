@@ -1,4 +1,4 @@
-# Chalice Challenge
+# Chalice Challenge Application
 
 This repository is dedicated to a code challenge using the AWS Chalice framework.
 
@@ -8,12 +8,13 @@ This repository is dedicated to a code challenge using the AWS Chalice framework
 
 ## Usage
 
-### Starting Chalice
+### Starting Chalice Challenge Application
 
-When using chalice with this project, please use the `advance-local` folder.
+When using chalice with this project, please use the `chalice-challenge` folder when running commands.
+After cloning this repository, use the following command to change directory to this project.
 
 ```
-cd advance-local
+cd chalice-challenge
 ```
 
 #### AWS Server
