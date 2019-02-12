@@ -1,6 +1,6 @@
-# Advance Local Code Challenge
+# Chalice Challenge
 
-This repository is dedicated to the code challenge issued by Advance Local.
+This repository is dedicated to a code challenge using the AWS Chalice framework.
 
 ## Documentation
 
